@@ -1,0 +1,6 @@
+{
+	"prop2" : 23,
+	"prop1" : "TEXT_VALUE",
+	"prop4" : ["a","b"],
+	"prop3" : false
+}
